@@ -7,7 +7,7 @@
 
 > *"The more I learn about software, the more I realize the importance of clean architecture and efficient algorithms."*
 
-I am a **Backend-focused Developer** and software engineering student. Rather than just writing code, I love analyzing complex problems, designing robust logic, and structuring scalable backend systems.
+I am a **Backend-focused Developer** and computer engineering student. Rather than just writing code, I love analyzing complex problems, designing robust logic, and structuring scalable backend systems.
 
 ---
 
