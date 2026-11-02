@@ -33,7 +33,8 @@ I am a **Backend-focused Developer** and software engineering student. Rather th
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Msbb2007&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msbb2007&layout=compact&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Msbb2007&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msbb2007&layout=compact&theme=dark&hide_border=true" />
 </p>
+
