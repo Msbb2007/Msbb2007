@@ -1,7 +1,7 @@
 # Hi there, I'm MSB! 👋
 
 <p>
-  <img src="https://img.shields.io/badge/Software_Engineering-Enthusiast-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Engineering-Enthusiast-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Developer-green?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
