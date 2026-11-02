@@ -35,7 +35,7 @@ I am a **Backend-focused Developer** with a strong inclination towards **Softwar
 ---
 
 ### 📊 GitHub Stats
-![Ehsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msbb2007&show_icons=true&theme=radical)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Msbb2007&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Msbb2007&layout=compact&theme=radical)
 
 
